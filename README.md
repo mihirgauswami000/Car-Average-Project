@@ -73,21 +73,13 @@ Fuel efficiency plays a major role in vehicle choice and environmental impact. T
 | ![Input](screenshots/input.png) | ![Output](screenshots/output.png) |
 
 ## 🙋‍♂️ About the Developer
-Mihir Gauswami
-📧 Email: mmgauswami00@gmail.com
-💼 B.E. in Information Technology
-🔗 LinkedIn
+### Mihir Gauswami
+#### 📧 Email: mmgauswami00@gmail.com
+#### 💼 B.E. in Information Technology
+#### 🔗 [LinkedIn](http://www.linkedin.com/in/mihirgauswami000)
 
 ## 🌐 Live Application
-
 👉 [Click here to launch the app](https://car-average-project.streamlit.app/)
 
 ## ⭐ Give it a Star!
 If you like this project, consider giving it a ⭐ on GitHub. It helps others discover it!
-
-yaml
-Copy
-Edit
-
-
-
