@@ -42,8 +42,6 @@ Fuel efficiency plays a major role in vehicle choice and environmental impact. T
 | `scikit-learn` | Model training (Regression) |
 | `streamlit`    | Frontend for app |
 | `joblib`       | Model persistence |
-| `matplotlib`   | Data visualization |
-| `GitHub`       | Version control and hosting |
 | `Streamlit Cloud` | Deployment |
 
 ---
@@ -54,3 +52,42 @@ Fuel efficiency plays a major role in vehicle choice and environmental impact. T
    ```bash
    git clone https://github.com/yourusername/Car-Fuel-Prediction.git
    cd Car-Fuel-Prediction
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the app:
+   ```bash
+   streamlit run fuel_consumption.py
+## 📂 Project Structure
+
+        ├── clean_fuel.csv           # Cleaned dataset
+        ├── fuel_consumption.py      # Streamlit application
+        ├── requirements.txt         # Python dependencies
+        └── README.md                # Project documentation
+
+## 🖼️ Screenshots
+
+| App Input Section               | Fuel Prediction Output            |
+| ------------------------------- | --------------------------------- |
+| ![Input](screenshots/input.png) | ![Output](screenshots/output.png) |
+
+## 🙋‍♂️ About the Developer
+Mihir Gauswami
+📧 Email: mmgauswami00@gmail.com
+💼 B.E. in Information Technology
+🔗 LinkedIn
+
+## 🌐 Live Application
+
+👉 [Click here to launch the app](https://car-average-project.streamlit.app/)
+
+## ⭐ Give it a Star!
+If you like this project, consider giving it a ⭐ on GitHub. It helps others discover it!
+
+yaml
+Copy
+Edit
+
+
+
