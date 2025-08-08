@@ -70,7 +70,7 @@ Fuel efficiency plays a major role in vehicle choice and environmental impact. T
 
 | App Input Section               | Fuel Prediction Output            |
 | ------------------------------- | --------------------------------- |
-| ![Input](screenshots/input.png) | ![Output](screenshots/output.png) |
+| ![Input](https://github.com/mihirgauswami000/Car-Average-Project/blob/main/Input_Snapshot.png) | ![Output](screenshots/output.png) |
 
 ## 🙋‍♂️ About the Developer
 ### Mihir Gauswami
